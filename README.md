@@ -1,2 +1,2 @@
-# trybe-rafaelmicheli-exercicios
+# Trybe-rafaelmicheli-exercicios
 Exercicios da trybe
