@@ -1,2 +1,2 @@
-# Trybe-RafaelMicheli-exercicios
+# trybe_rafael
 Exercicios da trybe
